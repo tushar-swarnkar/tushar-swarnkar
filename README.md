@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java, Spring framework, Spring Boot**
 
-- 📫 How to reach me **swarnkar.tushar@gmail.com**
+- 📫 How to reach me **swarnkar.tushar03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
